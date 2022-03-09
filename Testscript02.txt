@@ -1,0 +1,7 @@
+class test{
+
+@Test
+public void TC2(){
+System.out.println("case2");
+}
+}
